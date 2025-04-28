@@ -63,7 +63,7 @@ const About = () => {
                 I'm a passionate Frontend Developer with a strong focus on creating exceptional user experiences. With a background in Computer Science, I bring a unique perspective to the world of web development. 
               </p>
               <p className="text-gray-600 dark:text-gray-300 mb-6">
-                I specialize in building modern, responsive, and user-friendly websites and applications using cutting-edge technologies. My skill set includes proficiency in HTML, CSS, JavaScript, React, and other modern frameworks.
+                I specialize in building responsive, and user-friendly websites and applications using cutting-edge technologies. My skill set includes proficiency in HTML, CSS, JavaScript, React, and other modern frameworks.
               </p>
               
               <div className="grid grid-cols-2 gap-4">
