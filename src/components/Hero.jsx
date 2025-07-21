@@ -34,7 +34,7 @@ const Hero = () => {
             ref={titleRef}
             className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-800 dark:text-white mb-4 transition-all duration-700 transform opacity-0 translate-y-5"
           >
-            Hi, I'm <span className="text-indigo-600">Santhosh T R</span>
+            Hi, I'm <span className="text-indigo-600">Hriday F1 Racer</span>
           </h1>
           <p 
             ref={descriptionRef}
